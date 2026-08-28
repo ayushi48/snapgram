@@ -224,7 +224,7 @@ npm run build
 
 <br/><br/>
 
-⭐ **If you like Snapgram, consider giving the repository a star!**
+⭐ **If you like Snapgram, consider giving the repository a star! **
 
 </div>
 
